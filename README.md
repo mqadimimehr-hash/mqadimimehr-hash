@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Memo (Mohammad Ghadimimehr) 👋
 
-<!--
-**mqadimimehr-hash/mqadimimehr-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Postgraduate researcher at the **Institute for Advanced Studies, Universiti Malaya** (Kuala Lumpur).
 
-Here are some ideas to get you started:
+I work where **materials science meets machine learning**, building flexible, lead-free **perovskite** and **dye-sensitized solar cells** for **indoor photovoltaics**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 What I do
+- Machine-learning screening of photovoltaic materials
+- Device physics and solar cell performance analysis
+- Python tools for materials and energy research data
+
+### 🛠️ Tools
+Python · NumPy · pandas · scikit-learn · PyTorch · Jupyter
+
+### 💼 Open to
+Freelance / consulting in **ML for materials science**, **scientific data analysis**, and **Python research tooling**.
+
+📫 m.qadimimehr@gmail.com
